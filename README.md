@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ali<br>I'm a cybersecurity analyst, programmer, and tech enthusiast.<br><br>Here are some of the skills and technologies I'm proficient in:<br>  -Cybersecurity: Threat analysis, penetration testing, network sec, app sec & soc analyst.<br>-Programming: App & Web Dev; Tools and scipt developer<br><br> How to reach me<br>   - Telgram :- @engima_ali<br>   - E-mail  :- engima_ali@protonmail.com<br>
+Hi 👋, I'm Ali<br>I'm a cybersecurity analyst, programmer, and tech enthusiast.<br><br>Here are some of the skills and technologies I'm proficient in:<br>  -Cybersecurity: Digital forensics, penetration testing, Reverse eng, app sec & soc analyst.<br>-Programming: App & Web Dev; Tools and scipt developer<br><br> How to reach me<br>   - Telgram :- @engima_ali<br>   - E-mail  :- engima_ali@protonmail.com<br>
 
 
 # 💻 I code with:
